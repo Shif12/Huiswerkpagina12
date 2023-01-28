@@ -21,6 +21,7 @@ td {
     background-color: #ADD8E6;
 }
 
+
 .cell2 {
     background-color: #90EE90;
 }
@@ -31,4 +32,52 @@ td {
 
 .cell4 {
     background-color: #FFFF00;
+}
+
+.cell5 {
+    background-color: #00008B;
+}
+
+.cell6 {
+    background-color: #9900FF;
+}
+
+.cell7 {
+    background-color: #66FFFF;
+}
+
+.cell8 {
+    background-color: #FF8800;
+}
+
+.cell9 {
+    background-color: #009900;
+}
+
+.cell10 {
+    background-color: #660000;
+}
+
+.cell11 {
+    background-color: #336600;
+}
+
+.cell12 {
+    background-color: #FF2200;
+}
+
+.cell13 {
+    background-color: #00cc00;
+}
+
+.cell14 {
+    background-color: #000033;
+}
+
+.cell15 {
+    background-color: #006600;
+}
+
+.cell16 {
+    background-color: #660066;
 }
